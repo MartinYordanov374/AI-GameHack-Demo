@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      devil_2_0: 118206792675527250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
